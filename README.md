@@ -55,7 +55,7 @@ Here are some of the key projects I've built, showcasing my full-stack capabilit
 ## 📈 **My GitHub Activity**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loemheng840&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=loemheng840&theme=dark&hide_border=tru](https://camo.githubusercontent.com/602ef76af955558d060a4d501d6c03517e09de11a8ada1e834e21b547ed2350c/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6c6f656d68656e67383430267468656d653d6461726b26686964655f626f726465723d74727565)" alt="GitHub Streak" />
 </p>
 
 ---
@@ -71,5 +71,5 @@ I am always interested in discussing new opportunities, collaborations, or innov
 ---
 
 <p align="center">
-  **🚀 Thank you for visiting! If you enjoyed my work, please consider giving my repositories a star.**
+  🚀 Thank you for visiting! If you enjoyed my work, please consider giving my repositories a star.
 </p>
