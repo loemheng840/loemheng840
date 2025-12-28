@@ -1,3 +1,15 @@
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=280&section=header&text=LOEMHENG&fontSize=85&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Full-Stack%20Architect&descSize=22&descAlignY=60" width="100%" />
+
+  <br />
+
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=bb9af7&center=true&vCenter=true&width=600&lines=Crafting+Scalable+Enterprise+Systems;Specializing+in+Spring+Boot+%26+Next.js;Building+Secure+Financial+Solutions;Passionate+about+System+Design;Innovation+Through+Clean+Code" alt="Typing SVG" />
+  </p>
+
+
+</div>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?color=%23A0F9FF&size=32&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Loemheng+%F0%9F%91%8B;Full-Stack+Engineer+|+Building+Scalable+Systems;Always+Learning+New+Things+and+Innovating!">
@@ -54,9 +66,11 @@ Here are some of the key projects I've built, showcasing my full-stack capabilit
 
 ## 📈 **My GitHub Activity**
 
-<p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=loemheng840&theme=dark&hide_border=true])" alt="GitHub Streak" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=loemheng840&show_icons=true&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=loemheng840&theme=tokyonight)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=loemheng840&theme=tokyo-night)
 
 ---
 
@@ -64,12 +78,17 @@ Here are some of the key projects I've built, showcasing my full-stack capabilit
 
 I am always interested in discussing new opportunities, collaborations, or innovative projects. Let's build something great together!
 
-* <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /> **https://www.facebook.com/loemheng.ben**
-* <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /> **@loemheng840**
-* <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /> **limheng7676@gmail.com**
+  <p align="center">
+    <a href="https://www.facebook.com/loemheng.ben"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+    <a href="https://t.me/loemheng840"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="mailto:limheng7676@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
 
 ---
 
-<p align="center">
-  🚀 Thank you for visiting! If you enjoyed my work, please consider giving my repositories a star.
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
+  <a href="https://t.me/loemheng840">
+    <img src="https://img.shields.io/badge/Open-For-Collaborations-7aa2f7?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
