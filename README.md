@@ -65,12 +65,14 @@ Here are some of the key projects I've built, showcasing my full-stack capabilit
 ---
 
 ## 📈 **My GitHub Activity**
+<div align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=loemheng840&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api?username=loemheng840&show_icons=true&theme=tokyonight)
+  ![](https://streak-stats.demolab.com?user=loemheng840&theme=tokyonight)
 
-![](https://streak-stats.demolab.com?user=loemheng840&theme=tokyonight)
+  ![](https://github-readme-activity-graph.vercel.app/graph?username=loemheng840&theme=tokyo-night)
+</div>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=loemheng840&theme=tokyo-night)
 
 ---
 
