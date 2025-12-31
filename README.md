@@ -62,9 +62,8 @@ Here are some of the key projects I've built, showcasing my full-stack capabilit
 | **Quiz Platform** | Full-stack platform for administering, hosting, and taking quizzes. | `Next.js` (Frontend) + `Spring Boot` (Backend) | [View Repo](https://github.com/loemheng840/stackquiz-front-end-admin) |
 | **AI Chatbot App** | A user-friendly desktop application featuring a conversational AI interface. | `Python` + `PyQt6` + `SQLite` | [View Repo](https://github.com/loemheng840/ai-chatbot) |
 
----
-
 ## 📈 **My GitHub Activity**
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 <div align="center">
   
   ![](https://github-readme-stats.vercel.app/api?username=loemheng840&show_icons=true&theme=tokyonight)
@@ -75,8 +74,8 @@ Here are some of the key projects I've built, showcasing my full-stack capabilit
   
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
----
 
 ## 📧 **Let's Connect**
 
@@ -87,9 +86,21 @@ I am always interested in discussing new opportunities, collaborations, or innov
     <a href="https://t.me/loemheng840"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
     <a href="mailto:limheng7676@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
----
-
+```ascii
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║  "The best error message is the one that never shows up."         ║
+║                                        - Thomas Fuchs             ║
+║                                                                   ║
+║  > System Status: OPERATIONAL                                     ║
+║  > Code Quality: OPTIMIZED                                        ║
+║  > Coffee Level: ████████░░ 80%                                   ║
+║  > Motivation: █████████████ MAX                                  ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
 <div align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
   <a href="https://t.me/loemheng840">
