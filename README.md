@@ -74,7 +74,6 @@ Here are some of the key projects I've built, showcasing my full-stack capabilit
   
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 
 ## 📧 **Let's Connect**
@@ -88,19 +87,6 @@ I am always interested in discussing new opportunities, collaborations, or innov
   </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-```ascii
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║  "The best error message is the one that never shows up."         ║
-║                                        - Thomas Fuchs             ║
-║                                                                   ║
-║  > System Status: OPERATIONAL                                     ║
-║  > Code Quality: OPTIMIZED                                        ║
-║  > Coffee Level: ████████░░ 80%                                   ║
-║  > Motivation: █████████████ MAX                                  ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
 <div align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
   <a href="https://t.me/loemheng840">
