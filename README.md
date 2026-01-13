@@ -177,7 +177,7 @@ Cross-platform desktop application with natural language processing capabilities
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Your Next Project?
+### 🚀 Next Project?
 **Let's build something amazing together!**
 
 ![Collaboration](https://img.shields.io/badge/Status-Open_to_Collaborate-success?style=flat-square)
