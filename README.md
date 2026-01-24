@@ -132,18 +132,19 @@ Full-featured student and course management system with enrollment workflows, gr
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 E-Commerce REST API
-**High-performance scalable marketplace backend**
+### 🛍️ Mini Shop Web Application  
+**Modern e-commerce website with shopping cart & shipping system**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-Built a RESTful API supporting product catalog, cart management, order processing, and payment integration.
+A full frontend e-commerce website built with React and TypeScript that supports product browsing, shopping cart, checkout flow, shipping address, and order summary similar to a real online store.
 
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loemheng840/api-ecommerce)
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loemheng840/mini-shop)
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 📝 Quiz Platform
