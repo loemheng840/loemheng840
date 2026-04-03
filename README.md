@@ -159,25 +159,16 @@ A full frontend e-commerce website built with React and TypeScript that supports
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-2C2C2C?style=flat-square&logo=keycloak&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-000000?style=flat-square&logo=auth0&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=flat-square&logo=socket.io&logoColor=white)
 
+- 🎯 Real-time quiz sessions with live participation
+- 👨‍🏫 Role-based system (Admin, Teacher, Student)
+- 📝 Quiz and question management
+- 📊 Live leaderboard and scoring system
+- 📈 Performance analytics dashboard
+- ⚡ Instant answer validation using WebSockets
+- 🔐 Secure authentication and authorization
 
-Modern full-stack platform for creating, administering, and taking quizzes with real-time scoring and analytics.
-
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loemheng840/stackquiz-front-end-admin)
-<td width="50%" valign="top">
-
-### 🚀 Next Project?
-**Let's build something amazing together!**
-
-![Collaboration](https://img.shields.io/badge/Status-Open_to_Collaborate-success?style=flat-square)
-![Innovation](https://img.shields.io/badge/Focus-Innovation-blue?style=flat-square)
-
-I'm always interested in working on innovative projects that solve real-world problems.
-
-[![Contact](https://img.shields.io/badge/Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</td>
-</tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
