@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=280&section=header&text=LOEMHENG&fontSize=85&animation=fadeIn&fontAlignY=35&descSize=22&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9800&height=280&section=header&text=LOEMHENG&fontSize=85&animation=fadeIn&fontAlignY=35&descSize=22&descAlignY=60" width="100%" />
 
   <br />
 
@@ -229,5 +229,5 @@ I am always interested in discussing new opportunities, collaborations, or innov
   </p>
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9800&height=120&section=footer" width="100%" />
 </div>
