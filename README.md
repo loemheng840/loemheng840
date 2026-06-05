@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=280&section=header&text=LOEMHENG&fontSize=85&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Web%20Full-Stack&descSize=22&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=280&section=header&text=LOEMHENG&fontSize=85&animation=fadeIn&fontAlignY=35&descSize=22&descAlignY=60" width="100%" />
 
   <br />
 
@@ -17,16 +17,16 @@
   </picture>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/github/followers/loemheng840?label=Followers&color=00c8ff&style=flat-square" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/loemheng840?label=Stars&color=ffb300&style=flat-square" alt="GitHub Stars" />
   <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Code-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://komarev.com/ghpvc/?username=loemheng840&label=Profile+Views&color=ff69b4&style=flat-square" alt="Profile Views" />
-</p>
+</p> -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"> -->
 
 ## 🚀 About Me
 
@@ -42,7 +42,7 @@ const loemheng = {
 };
 ```
 
-I architect and build **production-grade applications** that solve real-world problems. My main expertise is in **Full-Stack Web Development**, crafting elegant frontends with **React/Next.js** and engineering robust backends with **Spring Boot**. Currently expanding my knowledge in **Ethical Hacking** to build more secure, penetration-tested applications.
+<!-- I architect and build **production-grade applications** that solve real-world problems. My main expertise is in **Full-Stack Web Development**, crafting elegant frontends with **React/Next.js** and engineering robust backends with **Spring Boot**. Currently expanding my knowledge in **Ethical Hacking** to build more secure, penetration-tested applications.
 
 ### 💡 What I Bring to the Table
 
@@ -52,7 +52,7 @@ I architect and build **production-grade applications** that solve real-world pr
 - ⚡ **Performance**: Optimizing for speed, efficiency, and resource management
 - 🧪 **Quality Assurance**: Writing comprehensive tests and documentation
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+ <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"> -->
 
 ## 🛠️ Technical Arsenal
 
@@ -94,7 +94,7 @@ I architect and build **production-grade applications** that solve real-world pr
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ## 🏆 Featured Projects
 
@@ -169,9 +169,7 @@ A full frontend e-commerce website built with React and TypeScript that supports
 - ⚡ Instant answer validation using WebSockets
 - 🔐 Secure authentication and authorization
 
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</table> -->
 
 ## 📈 **My GitHub Activity**
 <div align="center">
@@ -180,12 +178,9 @@ A full frontend e-commerce website built with React and TypeScript that supports
 
 ![](https://streak-stats.demolab.com?user=loemheng840&theme=tokyonight)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=loemheng840&theme=tokyo-night)
-
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## 💼 Professional Experience
+<!--## 💼 Professional Experience
 
 ```yaml
 Current_Focus:
@@ -218,7 +213,7 @@ Recent_Achievements:
 
 Actively building skills in ethical hacking, vulnerability assessment, penetration testing, and defensive security practices to secure networks, applications, and systems against real-world threats.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"> -->
 
 
 ## 📫 Let's Connect & Collaborate
@@ -232,15 +227,6 @@ I am always interested in discussing new opportunities, collaborations, or innov
     <a href="https://t.me/loemheng840"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
     <a href="mailto:limheng7676@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-### 💬 Open to:
-- Full-stack development opportunities
-- Open source collaborations
-- Technical consulting
-- Mentorship and knowledge sharing
-  **⭐ From [loemheng840](https://github.com/loemheng840) | Built with 💜 and lots of ☕**
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
